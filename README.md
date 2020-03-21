@@ -14,4 +14,6 @@ chmod +x fr13inst.py
 
 python2 fr13inst.py
 
+تم تشغيل الاداة بي نجاح 
+
 # MRX # SecDet # Krypton
